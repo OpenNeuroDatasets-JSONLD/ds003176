@@ -7,14 +7,14 @@
         "..."
     ],
     "BIDSVersion": "1.0.1",
-    "DatasetDOI": "10.18112/openneuro.ds003176.v1.0.0",
+    "DatasetDOI": "TODO: eventually a DOI for the dataset",
     "Funding": [
         "TODO",
         "GRANT #1",
         "GRANT #2"
     ],
     "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
-    "License": "CC0",
+    "License": "TODO: choose a license, e.g. PDDL (http://opendatacommons.org/licenses/pddl/)",
     "Name": "TODO: name of the dataset",
     "ReferencesAndLinks": [
         "TODO",
