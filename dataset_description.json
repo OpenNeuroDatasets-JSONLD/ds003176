@@ -1,10 +1,11 @@
 {
     "Acknowledgements": "We thank Julia P\u00f6schko and Thomas Zussner for their help with data collection and Marcel Jud for his assistance in setting up the experiment. ",
     "Authors": [
-        "TODO:",
-        "First1 Last1",
-        "First2 Last2",
-        "..."
+        "Simon M. Ceh",
+        "Sonja Annerer-Walcher",
+        "Karl Koschutnig",
+        "Christof K\u00f6rner",
+        "Mathias Benedek"
     ],
     "BIDSVersion": "1.0.1",
     "DatasetDOI": "TODO: eventually a DOI for the dataset",
