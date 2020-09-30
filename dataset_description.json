@@ -8,7 +8,9 @@
     ],
     "BIDSVersion": "1.0.1",
     "DatasetDOI": "TODO: eventually a DOI for the dataset",
-    "Funding": [],
+    "Funding": [
+        "Austrian Science Fund (FWF): P29801-B27"
+    ],
     "HowToAcknowledge": "tbd.",
     "License": "CC0",
     "Name": "TODO: name of the dataset",
