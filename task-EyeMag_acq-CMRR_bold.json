@@ -4,7 +4,6 @@
   "BandwidthPerPixelPhaseEncode": 24.038,
   "BaseResolution": 80,
   "BodyPartExamined": "HEAD",
-  "CogAtlasID": "TODO",
   "ConsistencyInfo": "N4_VE11C_LATEST_20160120",
   "ConversionSoftware": "dcm2niix",
   "DerivedVendorReportedEchoSpacing": 0.00052001,
